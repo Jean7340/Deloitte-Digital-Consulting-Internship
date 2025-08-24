@@ -152,7 +152,8 @@ and learned how to connect **strategic frameworks with IT architecture**. I also
 
 ## Reflection
 
-This internship taught me how consulting engagements translate strategic ambition into operational reality.  
+This internship taught me how consulting engagements translate strategic ambition into operational reality.
+
 The materials here document a real-world effort to shift an entire industry’s marketing approach toward the 
 digital era. For me, they represent not just work products, but an experience of how Deloitte Consulting 
 guides transformation: through diagnosis, design, technology, and evidence.  
