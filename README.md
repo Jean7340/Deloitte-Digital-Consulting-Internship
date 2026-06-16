@@ -37,8 +37,6 @@ The documents and files in this repository represent different dimensions of the
 Each corresponds to a topic Deloitte developed with the client, supported by my work during the internship.  
 
 ### 1. Market Diagnostics and Research  
-- [营销场景建设项目现状写实及需求调研.pdf](./营销场景建设项目现状写实及需求调研.pdf)  
-- [数字化管理.docx](./数字化管理.docx) 
 
 These reports capture the baseline challenges: low engagement in scan-code promotions, declining 
 activity in WeChat groups, rigid allocation of promotional resources such as 和币 (internal loyalty point / virtual currency), and limited 
@@ -48,9 +46,6 @@ falling and the company sought new levers for growth.
 ---
 
 ### 2. Standards and Governance Frameworks  
-- [营销场景建设项目业务管理规范标准 v0.2.pdf](./营销场景建设项目业务管理规范标准v0.2.pdf)  
-- [活动定制与营销研发场景落地思路.pptx](./活动定制与营销研发场景落地思路.pptx)  
-- [OKR (folder)](./OKR) 
 
 This strand of work produced a comprehensive **Marketing 3.0 standard**, outlining how new product 
 launches should be sequenced, how campaigns should be designed, and how retailer and consumer 
@@ -89,9 +84,6 @@ closed-loop campaign execution, resource allocation, and performance evaluation.
 ---
 
 ### 4. Campaign Evidence and Case Reviews  
-- [已开展活动汇总 201910.zip](./已开展活动汇总201910.zip)  
-- [深度复盘 (黄鹤楼).twbx](./深度复盘(黄鹤楼).twbx)  
-- [黄鹤楼硬平安图表.twb](./黄鹤楼硬平安图表.twb) 
 
 Market practice and evidence were essential to making the transformation credible. I organized campaign 
 activity data across provinces, built summaries of retail and consumer events, and analyzed campaign 
